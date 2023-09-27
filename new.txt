@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is a line in branch
+=======
+this is a line in main
+>>>>>>> main
